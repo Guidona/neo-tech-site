@@ -19,7 +19,7 @@ var settings = {
 const IndexPage = () => (
   <Layout>
     <Header />
-    <EmailForm />
+    {/* <EmailForm /> */}
     <Footer />
     <SlideShow settings={settings} />
   </Layout>
